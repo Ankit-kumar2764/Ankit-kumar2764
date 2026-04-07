@@ -52,9 +52,8 @@
 
 ## 💻 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kumar2764&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kumar2764&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
----
 
 ## 🐍 Contribution Snake
 <p align="center">
