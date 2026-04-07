@@ -61,9 +61,4 @@
   <img src="https://raw.githubusercontent.com/Ankit-kumar2764/Ankit-kumar2764/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit-kumar2764&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
