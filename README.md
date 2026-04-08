@@ -35,12 +35,7 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar2764&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar2764&show_icons=true" />---
 
 ## 🔥 GitHub Streak
 <p align="center">
