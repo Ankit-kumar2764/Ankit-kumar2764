@@ -29,11 +29,10 @@
 
 ---
 
-## ⚡ Tech Stack
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,git,linux,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar2764&show_icons=true&theme=tokyonight" />
 </p>
-
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar2764&show_icons=true" />---
 
