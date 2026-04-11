@@ -51,5 +51,14 @@
 
 ---
 
+## 📫 Connect with Me
+- 💼 LinkedIn: YOUR_LINKEDIN_LINK
+- 📧 Email: YOUR_EMAIL
+
+---
+
+## ⚡ Fun Fact
+💬 "I turn ideas into code and problems into solutions."
+
 
 
