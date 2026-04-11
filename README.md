@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar2764&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 
 ## 🔥 GitHub Streak
@@ -51,9 +45,5 @@
 
 
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankit-kumar2764/Ankit-kumar2764/output/github-contribution-grid-snake.svg" />
-</p>
 
 
