@@ -29,6 +29,16 @@
 
 ---
 
+## 🛠️ Tech Stack
+- 💻 Languages: C++, JavaScript
+- 🌐 Frontend: HTML, CSS, React
+- 🔧 Backend: Node.js (learning)
+- 🗄️ Database: MongoDB (learning)
+- ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+
 
 
 ## 🔥 GitHub Streak
