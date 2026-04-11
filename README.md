@@ -32,8 +32,8 @@
 ## 🛠️ Tech Stack
 - 💻 Languages: C++, JavaScript
 - 🌐 Frontend: HTML, CSS, React
-- 🔧 Backend: Node.js (learning)
-- 🗄️ Database: MongoDB (learning)
+- 🔧 Backend: Node.js ,ExpressJS
+- 🗄️ Database: MongoDB ,SQL
 - ⚙️ Tools: Git, GitHub, VS Code
 
 ---
