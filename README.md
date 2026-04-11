@@ -2,7 +2,7 @@
 <h3 align="center"> 💻 Aspiring Software Engineer | Full Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;DSA+Lover;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines= 💻+Aspiring+Software+Engineer;Full+Stack+Developer;DSA+Lover;Open+Source+Contributor" />
 </p>
 
 ---
