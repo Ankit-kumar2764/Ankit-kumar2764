@@ -21,13 +21,16 @@
 
 ---
 
-## 🧠 About Me 
-- 🌐 MERN Stack Developer  
-- 🧩 DSA & Competitive Programming  
-- 🤖 Building Real World  Projects  
-- 📚 Currently learning Cyber Security  
+## 🚀 About Me
+- 🎓 B.Tech Student passionate about **Software Engineering**
+- 💡 Interested in **Web Development & Problem Solving**
+- 🔥 Currently learning **DSA + Full Stack Development**
+- 🎯 Goal: Become a **Software Engineer in top tech company**
+- 📈 Love building real-world projects and improving coding skills
+- 📚 Currently learning Cyber Security
 
 ---
+
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C++, JavaScript
