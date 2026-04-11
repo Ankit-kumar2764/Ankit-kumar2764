@@ -52,8 +52,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/feed/
+- 📧 Email: ay9335144776@gmail.com
 
 ---
 
